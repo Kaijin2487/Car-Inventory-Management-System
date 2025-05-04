@@ -87,6 +87,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter)
+Your Name - Aakash Rajesh Pawar
 
 Project Link: [https://github.com/yourusername/car-inventory-management](https://github.com/yourusername/car-inventory-management) 
